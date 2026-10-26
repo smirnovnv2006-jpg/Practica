@@ -1,0 +1,15 @@
+D:\pract\Collections\Collections\bin\Debug\net10.0\Collections.exe
+D:\pract\Collections\Collections\bin\Debug\net10.0\Collections.deps.json
+D:\pract\Collections\Collections\bin\Debug\net10.0\Collections.runtimeconfig.json
+D:\pract\Collections\Collections\bin\Debug\net10.0\Collections.dll
+D:\pract\Collections\Collections\bin\Debug\net10.0\Collections.pdb
+D:\pract\Collections\Collections\obj\Debug\net10.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\pract\Collections\Collections\obj\Debug\net10.0\Collections.AssemblyInfoInputs.cache
+D:\pract\Collections\Collections\obj\Debug\net10.0\Collections.AssemblyInfo.cs
+D:\pract\Collections\Collections\obj\Debug\net10.0\Collections.csproj.CoreCompileInputs.cache
+D:\pract\Collections\Collections\obj\Debug\net10.0\Collections.dll
+D:\pract\Collections\Collections\obj\Debug\net10.0\refint\Collections.dll
+D:\pract\Collections\Collections\obj\Debug\net10.0\Collections.pdb
+D:\pract\Collections\Collections\obj\Debug\net10.0\Collections.genruntimeconfig.cache
+D:\pract\Collections\Collections\obj\Debug\net10.0\ref\Collections.dll
+D:\pract\Collections\Collections\obj\Debug\net10.0\Collecti.2997995D.Up2Date
