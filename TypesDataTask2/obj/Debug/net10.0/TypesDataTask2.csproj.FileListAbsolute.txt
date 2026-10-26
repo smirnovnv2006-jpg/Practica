@@ -1,0 +1,15 @@
+D:\pract\TypesDataTask2\bin\Debug\net10.0\TypesDataTask2.exe
+D:\pract\TypesDataTask2\bin\Debug\net10.0\TypesDataTask2.deps.json
+D:\pract\TypesDataTask2\bin\Debug\net10.0\TypesDataTask2.runtimeconfig.json
+D:\pract\TypesDataTask2\bin\Debug\net10.0\TypesDataTask2.dll
+D:\pract\TypesDataTask2\bin\Debug\net10.0\TypesDataTask2.pdb
+D:\pract\TypesDataTask2\obj\Debug\net10.0\TypesDataTask2.GeneratedMSBuildEditorConfig.editorconfig
+D:\pract\TypesDataTask2\obj\Debug\net10.0\TypesDataTask2.AssemblyInfoInputs.cache
+D:\pract\TypesDataTask2\obj\Debug\net10.0\TypesDataTask2.AssemblyInfo.cs
+D:\pract\TypesDataTask2\obj\Debug\net10.0\TypesDataTask2.csproj.CoreCompileInputs.cache
+D:\pract\TypesDataTask2\obj\Debug\net10.0\TypesDataTask2.dll
+D:\pract\TypesDataTask2\obj\Debug\net10.0\refint\TypesDataTask2.dll
+D:\pract\TypesDataTask2\obj\Debug\net10.0\TypesDataTask2.pdb
+D:\pract\TypesDataTask2\obj\Debug\net10.0\TypesDataTask2.genruntimeconfig.cache
+D:\pract\TypesDataTask2\obj\Debug\net10.0\ref\TypesDataTask2.dll
+D:\pract\TypesDataTask2\obj\Debug\net10.0\TypesDat.16D1C3D5.Up2Date
