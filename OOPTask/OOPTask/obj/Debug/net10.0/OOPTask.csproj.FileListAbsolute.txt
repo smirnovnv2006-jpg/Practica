@@ -1,0 +1,15 @@
+D:\pract\OOPTask\OOPTask\bin\Debug\net10.0\OOPTask.exe
+D:\pract\OOPTask\OOPTask\bin\Debug\net10.0\OOPTask.deps.json
+D:\pract\OOPTask\OOPTask\bin\Debug\net10.0\OOPTask.runtimeconfig.json
+D:\pract\OOPTask\OOPTask\bin\Debug\net10.0\OOPTask.dll
+D:\pract\OOPTask\OOPTask\bin\Debug\net10.0\OOPTask.pdb
+D:\pract\OOPTask\OOPTask\obj\Debug\net10.0\OOPTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\pract\OOPTask\OOPTask\obj\Debug\net10.0\OOPTask.AssemblyInfoInputs.cache
+D:\pract\OOPTask\OOPTask\obj\Debug\net10.0\OOPTask.AssemblyInfo.cs
+D:\pract\OOPTask\OOPTask\obj\Debug\net10.0\OOPTask.csproj.CoreCompileInputs.cache
+D:\pract\OOPTask\OOPTask\obj\Debug\net10.0\OOPTask.dll
+D:\pract\OOPTask\OOPTask\obj\Debug\net10.0\refint\OOPTask.dll
+D:\pract\OOPTask\OOPTask\obj\Debug\net10.0\OOPTask.pdb
+D:\pract\OOPTask\OOPTask\obj\Debug\net10.0\OOPTask.genruntimeconfig.cache
+D:\pract\OOPTask\OOPTask\obj\Debug\net10.0\ref\OOPTask.dll
+D:\pract\OOPTask\OOPTask\obj\Debug\net10.0\OOPTask.csproj.Up2Date
