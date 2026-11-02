@@ -1,0 +1,15 @@
+D:\pract\DataTypesTask2\DataTypesTask2\bin\Debug\net10.0\DataTypesTask2.exe
+D:\pract\DataTypesTask2\DataTypesTask2\bin\Debug\net10.0\DataTypesTask2.deps.json
+D:\pract\DataTypesTask2\DataTypesTask2\bin\Debug\net10.0\DataTypesTask2.runtimeconfig.json
+D:\pract\DataTypesTask2\DataTypesTask2\bin\Debug\net10.0\DataTypesTask2.dll
+D:\pract\DataTypesTask2\DataTypesTask2\bin\Debug\net10.0\DataTypesTask2.pdb
+D:\pract\DataTypesTask2\DataTypesTask2\obj\Debug\net10.0\DataTypesTask2.GeneratedMSBuildEditorConfig.editorconfig
+D:\pract\DataTypesTask2\DataTypesTask2\obj\Debug\net10.0\DataTypesTask2.AssemblyInfoInputs.cache
+D:\pract\DataTypesTask2\DataTypesTask2\obj\Debug\net10.0\DataTypesTask2.AssemblyInfo.cs
+D:\pract\DataTypesTask2\DataTypesTask2\obj\Debug\net10.0\DataTypesTask2.csproj.CoreCompileInputs.cache
+D:\pract\DataTypesTask2\DataTypesTask2\obj\Debug\net10.0\DataTypesTask2.dll
+D:\pract\DataTypesTask2\DataTypesTask2\obj\Debug\net10.0\refint\DataTypesTask2.dll
+D:\pract\DataTypesTask2\DataTypesTask2\obj\Debug\net10.0\DataTypesTask2.pdb
+D:\pract\DataTypesTask2\DataTypesTask2\obj\Debug\net10.0\DataTypesTask2.genruntimeconfig.cache
+D:\pract\DataTypesTask2\DataTypesTask2\obj\Debug\net10.0\ref\DataTypesTask2.dll
+D:\pract\DataTypesTask2\DataTypesTask2\obj\Debug\net10.0\DataType.43AB2D17.Up2Date
