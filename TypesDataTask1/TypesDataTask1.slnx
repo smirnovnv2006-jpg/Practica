@@ -1,6 +1,0 @@
-<Solution>
-  <Folder Name="/Элементы решения/">
-    <Project Path="../TypesDataTask2/TypesDataTask2.csproj" />
-  </Folder>
-  <Project Path="TypesDataTask1/TypesDataTask1.csproj" />
-</Solution>
